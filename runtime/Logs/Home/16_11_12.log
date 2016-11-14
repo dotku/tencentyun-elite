@@ -1,0 +1,50 @@
+[ 2016-11-12T13:17:50+08:00 ] 69.181.221.197 /projects/tencentyun/projects/elite/index.php/Home/Index/post
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-11-12T13:17:57+08:00 ] 69.181.221.197 /projects/tencentyun/projects/elite/index.php/Home/Index/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000273s ]
+
+[ 2016-11-12T13:18:04+08:00 ] 69.181.221.197 /projects/tencentyun/projects/elite/index.php/Home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+ERR: 模板不存在:app/Home/View/Index/index.html
+
+[ 2016-11-12T13:18:26+08:00 ] 69.181.221.197 /projects/tencentyun/projects/elite/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+ERR: 模板不存在:app/Home/View/Index/index.html
+

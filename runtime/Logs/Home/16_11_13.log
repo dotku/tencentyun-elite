@@ -1,0 +1,32 @@
+[ 2016-11-13T16:38:18+08:00 ] 69.181.221.197 /projects/elite/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+ERR: 模板不存在:app/Home/View/Index/index.html
+
+[ 2016-11-13T16:39:27+08:00 ] 69.181.221.197 /projects/elite/index.php/home/Index/post
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2016-11-13T16:43:49+08:00 ] 69.181.221.197 /projects/elite/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+ERR: 模板不存在:app/Home/View/Index/index.html
+

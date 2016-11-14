@@ -1,0 +1,16 @@
+{
+    "name": "dotku/elite",
+    "description": "A single unit image service",
+    "description": "精简独立图片服务",
+		"type": "project",
+    "require": {
+        "tencentyun/php-sdk": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jay Lin",
+            "email": "weijingjaylin@gmail.com"
+        }
+    ]
+}

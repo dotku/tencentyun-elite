@@ -1,0 +1,2083 @@
+[ 2016-11-14T13:51:40+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2016-11-14T13:52:58+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2016-11-14T13:53:34+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001957s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000138s ]
+
+[ 2016-11-14T13:54:21+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000160s ]
+
+[ 2016-11-14T13:55:35+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+
+[ 2016-11-14T13:56:05+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2016-11-14T13:56:44+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000136s ]
+
+[ 2016-11-14T13:57:03+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001937s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000136s ]
+
+[ 2016-11-14T13:58:44+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+ERR: syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-11-14T13:58:57+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2016-11-14T14:00:20+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2016-11-14T14:01:26+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003175s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000146s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+
+[ 2016-11-14T14:02:27+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2016-11-14T14:02:50+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2016-11-14T14:03:04+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000228s ]
+
+[ 2016-11-14T14:03:55+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001917s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2016-11-14T14:04:29+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
+[ 2016-11-14T14:04:41+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2016-11-14T14:06:51+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000183s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000298s ]
+
+[ 2016-11-14T14:06:55+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000182s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003416s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2016-11-14T14:07:00+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2016-11-14T14:07:58+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001972s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002050s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2016-11-14T14:08:04+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [8] Undefined index: imagefile /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 40 行.
+NOTIC: [8] Undefined index: imagefile /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 40 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 42 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000253s ]
+
+[ 2016-11-14T14:10:24+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [8] Undefined index: imagefile /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 40 行.
+NOTIC: [8] Undefined index: imagefile /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 40 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 42 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000239s ]
+
+[ 2016-11-14T14:10:38+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2016-11-14T14:11:04+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2016-11-14T14:11:11+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000172s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-11-14T14:12:17+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2016-11-14T14:12:25+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] json_decode() expects parameter 1 to be string, array given /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000367s ]
+
+[ 2016-11-14T14:16:51+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.870643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.870790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2016-11-14T14:19:25+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.446148s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.446335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000239s ]
+
+[ 2016-11-14T14:20:50+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.627245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.627374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2016-11-14T14:21:22+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.450740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.450841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000124s ]
+
+[ 2016-11-14T14:21:31+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000178s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-11-14T14:28:05+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined offset: 0 /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000144s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2016-11-14T14:28:12+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.623554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.623656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2016-11-14T14:28:21+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined offset: 0 /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000213s ]
+
+[ 2016-11-14T14:29:09+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: http_referer /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000252s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000232s ]
+
+[ 2016-11-14T14:29:11+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.419485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.419581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000109s ]
+
+[ 2016-11-14T14:29:14+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.385422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.385584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000217s ]
+
+[ 2016-11-14T14:29:26+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: http_referer /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2016-11-14T14:29:29+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000207s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.400541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.400687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000118s ]
+
+[ 2016-11-14T14:29:34+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.353656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.353753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2016-11-14T14:30:40+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.373436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.373588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000218s ]
+
+[ 2016-11-14T14:31:53+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000221s ]
+
+[ 2016-11-14T14:33:09+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: http_referer /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: id /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2016-11-14T14:33:10+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.369661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.369758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2016-11-14T14:33:16+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2016-11-14T14:34:28+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-11-14T14:34:34+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/del/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000231s ]
+
+[ 2016-11-14T14:34:55+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/del/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000132s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000230s ]
+
+[ 2016-11-14T14:35:04+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000173s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000252s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.362763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.362921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2016-11-14T14:35:13+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: http_referer /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2016-11-14T14:35:14+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.363277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.363407s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-11-14T14:35:18+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.373407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.373511s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000109s ]
+
+[ 2016-11-14T14:35:21+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.375180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.375284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2016-11-14T14:35:46+08:00 ] 183.60.52.64 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.374807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.374970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000274s ]
+
+[ 2016-11-14T14:35:47+08:00 ] 112.90.82.196 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.382675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.382905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2016-11-14T14:36:01+08:00 ] 27.156.91.196 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000170s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.893802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.893950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000248s ]
+
+[ 2016-11-14T14:36:03+08:00 ] 101.226.66.174 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.351359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.351464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2016-11-14T14:36:48+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: http_referer /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002049s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000108s ]
+
+[ 2016-11-14T14:36:50+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.380284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.380400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000108s ]
+
+[ 2016-11-14T14:37:49+08:00 ] 27.156.91.196 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: http_referer /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000127s ]
+
+[ 2016-11-14T14:37:51+08:00 ] 27.156.91.196 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000230s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.380813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.380944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2016-11-14T14:38:29+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-11-14T14:38:38+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-11-14T14:38:45+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000152s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2016-11-14T14:39:01+08:00 ] 112.90.82.218 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000177s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-11-14T14:39:11+08:00 ] 27.156.91.196 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000230s ]
+
+[ 2016-11-14T14:39:15+08:00 ] 101.226.66.174 /projects/research/tencentyun/projects/elite/index.php/home/index/get?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000230s ]
+
+[ 2016-11-14T14:39:16+08:00 ] 101.226.89.116 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-11-14T14:39:53+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2016-11-14T14:43:09+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000133s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000233s ]
+
+[ 2016-11-14T14:43:09+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/del/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000217s ]
+
+[ 2016-11-14T14:43:13+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000223s ]
+
+[ 2016-11-14T14:43:18+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000241s ]
+
+[ 2016-11-14T14:43:25+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000212s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-11-14T14:43:44+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2016-11-14T14:43:45+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/del/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2016-11-14T14:43:47+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000212s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-11-14T14:43:58+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+ERR: 非法操作:fileid=fml.face.1
+
+[ 2016-11-14T14:44:03+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.443500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.443595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2016-11-14T14:44:12+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: http_referer /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 61 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 17 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000133s ]
+
+[ 2016-11-14T14:44:13+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.355261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.355374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2016-11-14T14:44:23+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get/fileid/fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 19 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000245s ]
+
+[ 2016-11-14T14:50:08+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.878258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.878360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000181s ]
+
+[ 2016-11-14T15:01:55+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000179s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000205s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000325s ]
+
+[ 2016-11-14T15:02:02+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+ERR: syntax error, unexpected '" /> ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-11-14T15:02:34+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000202s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+ERR: syntax error, unexpected '" /> ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-11-14T15:02:42+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+ERR: syntax error, unexpected '" /> ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-11-14T15:03:09+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+ERR: syntax error, unexpected '" /> ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-11-14T15:03:12+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+ERR: syntax error, unexpected '" /> ' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+[ 2016-11-14T15:08:37+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/runtime/Cache/Home/7d1be2da70a3ea5a748881a71cd7aefd.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.884431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.884548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2016-11-14T15:08:57+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/runtime/Cache/Home/7d1be2da70a3ea5a748881a71cd7aefd.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.446867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.446960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2016-11-14T15:09:01+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2016-11-14T15:09:04+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.424284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.424386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2016-11-14T15:09:57+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000177s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+
+[ 2016-11-14T15:10:27+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.854033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.854134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2016-11-14T15:13:16+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/post.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/vendor/topthink/thinkphp/ThinkPHP/Library/Think/Upload.class.php 第 182 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+
+[ 2016-11-14T15:13:20+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2016-11-14T15:15:17+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000254s ]
+
+[ 2016-11-14T15:17:34+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000195s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/runtime/Cache/Home/7d1be2da70a3ea5a748881a71cd7aefd.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.892197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.892275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+
+[ 2016-11-14T15:18:23+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2016-11-14T15:29:50+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/index/fileid=xxx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/runtime/Cache/Home/7d1be2da70a3ea5a748881a71cd7aefd.php 第 24 行.
+NOTIC: [8] Undefined index: fileid /var/www/projects/elite/runtime/Cache/Home/7d1be2da70a3ea5a748881a71cd7aefd.php 第 31 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/runtime/Cache/Home/7d1be2da70a3ea5a748881a71cd7aefd.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002833s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2016-11-14T15:29:57+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/index/fileid/xxx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [8] Undefined index: HTTP_REFERER /var/www/projects/elite/runtime/Cache/Home/7d1be2da70a3ea5a748881a71cd7aefd.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.920228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.920318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2016-11-14T15:31:51+08:00 ] 69.181.221.197 /projects/research/tencentyun/projects/elite/index.php/Home/Index/get?fileid=fml.face.1995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::get() should be compatible with Think\Controller::get($name = '') /var/www/projects/elite/app/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+NOTIC: [2] curl_setopt(): Disabling safe uploads is no longer supported /var/www/vendor/tencentyun/php-sdk/Tencentyun/Http.php 第 69 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000237s ]
+
